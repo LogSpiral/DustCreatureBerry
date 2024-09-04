@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DustCreatureBerry", "DustCreatureBerry.csproj", "{A7BA56D1-AADC-43B3-AECB-52079121AE3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BA56D1-AADC-43B3-AECB-52079121AE3F}.Debug|x86.ActiveCfg = Debug|x86
+		{A7BA56D1-AADC-43B3-AECB-52079121AE3F}.Debug|x86.Build.0 = Debug|x86
+		{A7BA56D1-AADC-43B3-AECB-52079121AE3F}.Release|x86.ActiveCfg = Release|x86
+		{A7BA56D1-AADC-43B3-AECB-52079121AE3F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7889C5D8-527D-4FB4-97F7-B029B3A86E7B}
+	EndGlobalSection
+EndGlobal
